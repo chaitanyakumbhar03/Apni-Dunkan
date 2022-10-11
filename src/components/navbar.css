@@ -1,0 +1,12 @@
+.menu{
+    background-color: #0057FF25;
+    width: 100% !important;
+    /* color: #000 !important; */
+}
+.navbar-nav .nav-link.active, .navbar-nav .show>.nav-link{
+    color: #000 !important;
+}
+.menu img{
+    width: 150px;
+    height: 80px;
+}

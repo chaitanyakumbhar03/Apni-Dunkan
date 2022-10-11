@@ -1,0 +1,31 @@
+.footer{
+    width: 100%;
+    height: auto;
+    background-color: #3C4655;
+}
+.left-footer label{
+    font-size: 20px;
+    color: #fff;
+    font-weight: 500;
+    text-transform: uppercase;
+    margin: 30px 0 12px 0;
+    /* margin-left: 5px; */
+}
+.left-footer ul li{
+    text-align: left;
+}
+.left-footer ul li a{
+    color: #fff;
+    padding: 5px 0 !important;
+    display: block;
+}
+.line{
+    height: auto;
+    border-right: 2px solid #fff;
+    margin-left: -25px;
+}
+.right-footer{
+    text-align: left;
+    color: #fff;
+    /* margin-left: 10px; */
+}
